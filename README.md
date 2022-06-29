@@ -1,3 +1,3 @@
-1)Introduction to HTML(headers) /n
-2)learning to add BG,BGC,href.  /n
+1)Introduction to HTML(headers) <br>
+2)learning to add BG,BGC,href.  <br>
 3)learning list's /n
